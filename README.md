@@ -5,3 +5,6 @@
 5. python manage.py makemigrations
 6. python manage.py migrate
 
+# ejecutar servidor
+
+7. python manage.py runserver
